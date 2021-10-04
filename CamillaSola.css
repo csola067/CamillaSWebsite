@@ -82,6 +82,10 @@ body {
     width: 800px;
 }
 
+.table-content{
+    border: 1px solid #d8b4a0;
+}
+
 .footer {
     position: relative;
     top: 140px;
